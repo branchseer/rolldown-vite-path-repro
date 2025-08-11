@@ -1,0 +1,15 @@
+{
+  "name": "rolldown-vite-path-repro",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "rolldown-vite": "^7.1.0"
+  }
+}
