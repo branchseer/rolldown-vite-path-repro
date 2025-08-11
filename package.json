@@ -10,6 +10,7 @@
     "build": "vite build"
   },
   "devDependencies": {
+    "oxc-resolver": "^11.6.1",
     "rolldown-vite": "^7.1.0"
   }
 }
